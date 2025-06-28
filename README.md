@@ -50,7 +50,17 @@ python src/train/retrain_with_real_data.py
 python src/analyze/analyze_finetuned_model.py
 ```
 
+---
+##  License
+
+This repository is released under the MIT License.
 
 ---
+
+##  Contact
+
+Questions, feedback or collaboration inquiries?  
+Feel free to reach out:  
+📧 `s.tavangari@alumni.ubc.ca`
 
 
