@@ -3,7 +3,7 @@
 This repository contains the code, environment, and models for the paper:
 **"A Reinforcement Learning Framework Bridging Psychology, Mathematics, and AI"**
 
-## 🌟 Overview
+##  Overview
 
 This project converts a psychological theory (Existential Loneliness Poverty) into a mathematical model, then an algorithm, and finally trains a reinforcement learning agent to optimize human identity and loneliness balance.
 
@@ -16,7 +16,7 @@ This project converts a psychological theory (Existential Loneliness Poverty) in
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `src/env/` - Custom Gym environment
 - `src/train/` - Training and fine-tuning scripts
@@ -28,7 +28,7 @@ This project converts a psychological theory (Existential Loneliness Poverty) in
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install dependencies:
 ```
@@ -50,15 +50,7 @@ python src/train/retrain_with_real_data.py
 python src/analyze/analyze_finetuned_model.py
 ```
 
----
-
-## 🧠 Citation
-
-If you use this work, please cite the paper:
-> "A Reinforcement Learning Framework Bridging Psychology, Mathematics, and AI", 2025
 
 ---
 
-## 📬 Contact
 
-For questions, contact: [your-email@example.com]
